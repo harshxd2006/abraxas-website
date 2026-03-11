@@ -1,0 +1,170 @@
+﻿{
+  "@headlessui/react": {
+    "current": "2.2.0",
+    "wanted": "2.2.9",
+    "latest": "2.2.9",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\@headlessui\\react"
+  },
+  "@react-three/drei": {
+    "current": "9.121.4",
+    "wanted": "9.122.0",
+    "latest": "10.7.7",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\@react-three\\drei"
+  },
+  "@react-three/fiber": {
+    "current": "8.17.12",
+    "wanted": "8.18.0",
+    "latest": "9.5.0",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\@react-three\\fiber"
+  },
+  "@types/react": {
+    "current": "18.3.18",
+    "wanted": "18.3.28",
+    "latest": "19.2.14",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\@types\\react"
+  },
+  "@types/react-dom": {
+    "current": "18.3.5",
+    "wanted": "18.3.7",
+    "latest": "19.2.3",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\@types\\react-dom"
+  },
+  "@vitejs/plugin-react": {
+    "current": "4.3.4",
+    "wanted": "4.7.0",
+    "latest": "5.1.4",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\@vitejs\\plugin-react"
+  },
+  "autoprefixer": {
+    "current": "10.4.20",
+    "wanted": "10.4.27",
+    "latest": "10.4.27",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\autoprefixer"
+  },
+  "eslint": {
+    "current": "8.57.1",
+    "wanted": "8.57.1",
+    "latest": "10.0.3",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\eslint"
+  },
+  "eslint-plugin-react": {
+    "current": "7.37.4",
+    "wanted": "7.37.5",
+    "latest": "7.37.5",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\eslint-plugin-react"
+  },
+  "eslint-plugin-react-hooks": {
+    "current": "4.6.2",
+    "wanted": "4.6.2",
+    "latest": "7.0.1",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\eslint-plugin-react-hooks"
+  },
+  "eslint-plugin-react-refresh": {
+    "current": "0.4.18",
+    "wanted": "0.4.26",
+    "latest": "0.5.2",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\eslint-plugin-react-refresh"
+  },
+  "framer-motion": {
+    "current": "11.18.2",
+    "wanted": "11.18.2",
+    "latest": "12.35.1",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\framer-motion"
+  },
+  "lucide-react": {
+    "current": "0.487.0",
+    "wanted": "0.487.0",
+    "latest": "0.577.0",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\lucide-react"
+  },
+  "postcss": {
+    "current": "8.5.1",
+    "wanted": "8.5.8",
+    "latest": "8.5.8",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\postcss"
+  },
+  "react": {
+    "current": "18.3.1",
+    "wanted": "18.3.1",
+    "latest": "19.2.4",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\react"
+  },
+  "react-dom": {
+    "current": "18.3.1",
+    "wanted": "18.3.1",
+    "latest": "19.2.4",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\react-dom"
+  },
+  "react-icons": {
+    "current": "5.5.0",
+    "wanted": "5.6.0",
+    "latest": "5.6.0",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\react-icons"
+  },
+  "react-intersection-observer": {
+    "current": "9.15.1",
+    "wanted": "9.16.0",
+    "latest": "10.0.3",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\react-intersection-observer"
+  },
+  "react-router-dom": {
+    "current": "6.30.3",
+    "wanted": "6.30.3",
+    "latest": "7.13.1",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\react-router-dom"
+  },
+  "sass": {
+    "current": "1.83.4",
+    "wanted": "1.97.3",
+    "latest": "1.97.3",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\sass"
+  },
+  "tailwindcss": {
+    "current": "3.4.17",
+    "wanted": "3.4.19",
+    "latest": "4.2.1",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\tailwindcss"
+  },
+  "three": {
+    "current": "0.172.0",
+    "wanted": "0.172.0",
+    "latest": "0.183.2",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\three"
+  },
+  "three-mesh-bvh": {
+    "current": "0.8.0",
+    "wanted": "0.8.3",
+    "latest": "0.9.9",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\three-mesh-bvh"
+  },
+  "vite": {
+    "current": "5.4.21",
+    "wanted": "5.4.21",
+    "latest": "7.3.1",
+    "dependent": "Team_Abraxas_Website_2k25",
+    "location": "C:\\Users\\Lakshay\\Documents\\abraxass\\site new\\Team_Abraxas_Website_2k25\\node_modules\\vite"
+  }
+}

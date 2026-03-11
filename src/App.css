@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge, and Firefox */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* DO NOT add overflow-x: hidden here — it breaks position:sticky */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+body {
+  background-color: #000000;
+  color: #e8e8e8;
+  font-family: 'DM Sans', sans-serif;
+  /* overflow-x hidden on body BREAKS position: sticky, so we remove it! */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Syne', sans-serif;
+  color: #ffffff;
+}
+
+#Navbar {
+  height: 10vh;
+}
+
+#Footer {
+  height: 60vh;
+}
+
+@media (max-width: 768px) {
+  #Footer {
+    height: 80vh;
+  }
+}
+
+#Events {
+  height: 90vh;
+}
+
+@media (max-width: 768px) {
+  #Events {
+    height: 120vh;
+  }
+}
+
+/* Projects: no height constraint, no overflow clipping */
+#Projects {
+  height: auto !important;
+  min-height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+  scroll-snap-align: none !important;
+  position: relative;
+}
+
+#Team {
+  height: 290vh;
+  scroll-snap-align: center;
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 90px;
+}
+
+@media (max-width: 768px) {
+  #Team {
+    margin-left: 16px;
+    width: calc(100% - 32px);
+    height: 225vh;
+  }
+}
