@@ -100,7 +100,11 @@ function App() {
                     </section>
                   </>
                 } />
-                <Route path="/Team" element={<Team />} />
+                <Route path="/Team" element={
+                  <div style={{ height: 'auto', overflow: 'visible', background: '#000' }}>
+                    <Team />
+                  </div>
+                } />
                 <Route path="/Gallery" element={<Gallery />} />
               </Routes>
             </Suspense>

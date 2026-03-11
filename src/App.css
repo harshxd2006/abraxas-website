@@ -74,22 +74,30 @@ h6 {
 }
 
 #Team {
-  height: 290vh;
-  scroll-snap-align: center;
-  padding: 0;
-  margin: 0;
-  box-sizing: content-box;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  margin-left: 90px;
+  height: auto;
+  overflow: visible;
 }
 
-@media (max-width: 768px) {
-  #Team {
-    margin-left: 16px;
-    width: calc(100% - 32px);
-    height: 225vh;
-  }
+/* Touch swipe snap */
+.team-mobile-track {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  gap: 16px;
+  padding: 0 10vw;
+  scrollbar-width: none;
+}
+
+.team-mobile-track::-webkit-scrollbar {
+  display: none;
+}
+
+.team-mobile-card {
+  scroll-snap-align: center;
+  width: 80vw;
+  height: 60vh;
+  flex-shrink: 0;
+  border-radius: 16px;
+  overflow: hidden;
 }
